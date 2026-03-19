@@ -26,16 +26,6 @@ Esto crea todas las tablas y carga los datos de ejemplo (6 cargos, 5 proyectos, 
 
 ---
 
-## Acceso a la aplicación
-
-Con XAMPP corriendo (Apache + MySQL):
-
-```
-http://localhost/trabajadores/public/
-```
-
----
-
 ## Endpoints API
 
 Base URL: `http://localhost/trabajadores/public/api`
