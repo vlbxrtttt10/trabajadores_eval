@@ -1,7 +1,5 @@
 # Módulo de Trabajadores
 
-Sistema de gestión de trabajadores desarrollado con Laravel 12, Bootstrap 5, jQuery y MySQL.
-
 ---
 
 ## Requisitos
@@ -18,7 +16,7 @@ Sistema de gestión de trabajadores desarrollado con Laravel 12, Bootstrap 5, jQ
 | Capa | Tecnología |
 |------|-----------|
 | Backend | Laravel 12, PHP 8.2 |
-| Frontend | Bootstrap 5.3, jQuery 3.7, Notiflix 3.2 |
+| Frontend | Bootstrap 5.3, jQuery 3.7 |
 | Base de datos | MySQL |
 | Servidor | Apache (XAMPP) |
 
