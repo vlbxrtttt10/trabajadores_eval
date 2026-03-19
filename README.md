@@ -22,10 +22,6 @@
 
 ---
 
-Esto crea todas las tablas y carga los datos de ejemplo (6 cargos, 5 proyectos, 10 trabajadores).
-
----
-
 ## Endpoints API
 
 Base URL: `http://localhost/trabajadores/public/api`
