@@ -46,37 +46,6 @@ Copiar el archivo de ejemplo y editarlo:
 cp .env.example .env
 ```
 
-Ajustar las credenciales de base de datos en `.env`:
-
-```env
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=trabajadores_db
-DB_USERNAME=root
-DB_PASSWORD=
-```
-
-### 4. Generar la clave de la aplicación
-
-```bash
-php artisan key:generate
-```
-
-### 5. Crear la base de datos
-
-Desde phpMyAdmin o MySQL CLI, crear la base de datos:
-
-```sql
-CREATE DATABASE trabajadores_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-```
-
-### 6. Ejecutar migraciones y seeders
-
-```bash
-php artisan migrate --seed
-```
-
 Esto crea todas las tablas y carga los datos de ejemplo (6 cargos, 5 proyectos, 10 trabajadores).
 
 ---
