@@ -22,30 +22,6 @@
 
 ---
 
-## Instalación
-
-### 1. Clonar / copiar el proyecto
-
-Colocar la carpeta del proyecto en:
-
-```
-C:\xampp\htdocs\trabajadores\
-```
-
-### 2. Instalar dependencias PHP
-
-```bash
-composer install
-```
-
-### 3. Configurar variables de entorno
-
-Copiar el archivo de ejemplo y editarlo:
-
-```bash
-cp .env.example .env
-```
-
 Esto crea todas las tablas y carga los datos de ejemplo (6 cargos, 5 proyectos, 10 trabajadores).
 
 ---
