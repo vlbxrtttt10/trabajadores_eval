@@ -1,0 +1,30 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.card-header {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+.table thead th {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.badge-activo {
+    background-color: #198754;
+}
+
+.badge-inactivo {
+    background-color: #dc3545;
+}
+
+.btn-accion {
+    margin: 0 2px;
+}
