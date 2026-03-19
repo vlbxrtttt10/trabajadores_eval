@@ -1,7 +1,5 @@
 # Módulo de Trabajadores
 
----
-
 ## Requisitos
 
 - PHP 8.2+
