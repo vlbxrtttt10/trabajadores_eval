@@ -88,21 +88,6 @@ routes/
 └── web.php
 ```
 
----
-
-## Script SQL alternativo
-
-Si se prefiere importar la base de datos directamente sin Artisan, usar el script incluido:
-
-```
-database/trabajadores_db.sql
-```
-
-Importar desde phpMyAdmin o por CLI:
-
-```bash
-mysql -u root trabajadores_db < database/trabajadores_db.sql
-```
 
 ---
 
